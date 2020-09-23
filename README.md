@@ -1,3 +1,2 @@
 # SnakeGame
 
-SNAKE GAME
